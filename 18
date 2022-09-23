@@ -1,4 +1,4 @@
-x= int(input("enter a num:"))
+ x= int(input("enter a num:"))
 y= int(input("enter another num:"))
 if x > y:
         smaller = y
